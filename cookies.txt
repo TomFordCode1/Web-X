@@ -1,0 +1,11 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+hustlerhollywood.com	TRUE	/	FALSE	1999999999	_landing_page	%2Fpages%2Fstore-west-covina-california%3Futm_source%3DGMBlisting%26utm_medium%3Dorganic
+hustlerhollywood.com	TRUE	/	FALSE	1999999999	localization	US
+hustlerhollywood.com	TRUE	/	FALSE	1999999999	_cmp_a	%7B%22purposes%22%3A%7B%22a%22%3Atrue%2C%22p%22%3Atrue%2C%22m%22%3Atrue%2C%22t%22%3Atrue%7D%2C%22display_banner%22%3Afalse%2C%22merchant_geo%22%3A%22US%22%2C%22sale_of_data_region%22%3Atrue%7D
+hustlerhollywood.com	TRUE	/	FALSE	1999999999	_y	826d81fb-ffdd-4609-9750-1467fedd36d8
+hustlerhollywood.com	TRUE	/	FALSE	1999999999	_s	101794ce-962e-4aef-89f9-d01ad435a72b
+hustlerhollywood.com	TRUE	/	FALSE	1999999999	_shopify_y	826d81fb-ffdd-4609-9750-1467fedd36d8
+hustlerhollywood.com	TRUE	/	FALSE	1999999999	_shopify_s	101794ce-962e-4aef-89f9-d01ad435a72b
+hustlerhollywood.com	TRUE	/	FALSE	1999999999	SameSite	Lax
+
